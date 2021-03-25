@@ -1,3 +1,4 @@
+### 自动化请看[AUTO](https://github.com/Twinzo1/12306/tree/master/AUTO)
 #### 写在前面：
 ​	视频教程：
 
@@ -8,9 +9,6 @@
 ![qrcode_for_gh_0626c7a906e9_258](https://gitee.com/gzldc/images/raw/master/2020-12-04/qrcode_for_gh_0626c7a906e9_258.jpg)
 
 公众号二维码:https://gitee.com/gzldc/images/raw/master/2020-12-04/qrcode_for_gh_0626c7a906e9_258.jpg
-
-### 自动化请看[AUTO](https://github.com/Twinzo1/12306/tree/master/AUTO)
-
 
    - 
 
