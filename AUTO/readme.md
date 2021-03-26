@@ -11,3 +11,5 @@ xmlhttp.open("GET", "http://127.0.0.1:5000/set_re/" + obj.RAIL_EXPIRATION, true)
 xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
 console.log("JSON==================",obj.tk);
 ```
+## TODO
+* 使用FastAPI实现（与当前方式相差不大）
