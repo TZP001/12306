@@ -1,5 +1,6 @@
-* 油猴脚本安装 [地址](https://github.com/Famine-Life/get12306cookie)
-* 修改脚本（未完成）
+# win10 子系统环境，其它环境未测试
+* 浏览器油猴脚本安装 [地址](https://github.com/Famine-Life/get12306cookie)
+* 修改脚本
 ```
 // 修改发送的url
 var text = JSON.stringify(data)
