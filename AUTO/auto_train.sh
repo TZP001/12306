@@ -27,5 +27,5 @@ do
 		python3 ../train.py &
 		python3 ../run.py r &
 	fi
-	sleep 60
+	sleep 30
 done
