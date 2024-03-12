@@ -158,6 +158,7 @@
         var obj = JSON.parse(text);
         console.log(obj)
         xmlhttp.open("GET", "http://127.0.0.1:5000/set_tk?tk=" + obj.tk, true);
+        //127.0.0.1，注意修改为运行青龙的ip地址
         xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
         console.log("JSON==================",obj.tk);
         xmlhttp.send();
