@@ -1,4 +1,4 @@
-### 自动化请看[AUTO](https://github.com/Twinzo1/12306/tree/master/AUTO)
+### 自动化请看[AUTO](https://github.com/TZP001/12306/tree/master/AUTO)
 #### 写在前面：
 ​	视频教程：
 
